@@ -13,6 +13,13 @@ from flask import render_template, request, redirect, url_for, flash
 # Routing for your application.
 ###
 
+
+@app.route('/profile')
+def profile():
+    return render_template('profile.html')
+
+
+
 @app.route('/')
 def home():
     """Render website's home page."""
