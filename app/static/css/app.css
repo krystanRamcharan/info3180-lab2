@@ -26,6 +26,7 @@ img {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  
 }
 
 
@@ -36,7 +37,7 @@ p.a{
 }
 
 p.b{
-    word-spacing:60;
+    word-spacing:60px;
     
 }
 
