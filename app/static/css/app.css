@@ -5,7 +5,8 @@ body {
 img {
     border-radius:50%;
 }
-.button {
+
+ .button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -18,12 +19,12 @@ img {
 
 p.a{
     word-spacing:normal;
-    text-align: center;
+    
 }
 
 p.b{
     word-spacing:60;
-    text-align:center
+    
 }
 
 header {
