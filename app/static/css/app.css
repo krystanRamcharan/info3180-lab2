@@ -6,6 +6,17 @@ img {
     border-radius:50%;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+
+
  .button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -16,6 +27,8 @@ img {
   display: inline-block;
   font-size: 16px;
 }
+
+
 
 p.a{
     word-spacing:normal;
