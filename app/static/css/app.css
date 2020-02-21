@@ -15,3 +15,19 @@ img {
   display: inline-block;
   font-size: 16px;
 }
+
+p.a{
+    word-spacing:normal;
+    text-align: center;
+}
+
+p.b{
+    word-spacing:60;
+    text-align:center
+}
+
+header {
+  background-color:#47d147;
+  padding: 30px;
+}
+
